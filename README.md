@@ -34,11 +34,3 @@ No need to manually redownload patches. Optima runs a background thread that con
 3. Extract the `optima.exe` file anywhere on your system.
 4. Run the executable as Administrator (Admin rights are highly recommended for applying priority and kernel-level tweaks).
 
-## 🛠️ Building from Source
-
-If you prefer to compile Optima yourself, ensure you have [Rust and Cargo](https://rustup.rs/) installed on your Windows machine.
-
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/imjusttran/optima.git](https://github.com/Your_GitHub_Username/optima.git)
-   cd optima
