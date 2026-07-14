@@ -40,5 +40,5 @@ If you prefer to compile Optima yourself, ensure you have [Rust and Cargo](https
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Your_GitHub_Username/optima.git](https://github.com/Your_GitHub_Username/optima.git)
+   git clone [https://github.com/imjusttran/optima.git](https://github.com/Your_GitHub_Username/optima.git)
    cd optima
