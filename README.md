@@ -1,6 +1,6 @@
 # ⚡ Optima - Hardcore eSports Dashboard
 
-![Version](https://img.shields.io/badge/version-0.1.3-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.4-sapphiere.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows-lightgrey.svg)
 ![Language](https://img.shields.io/badge/language-Rust-orange.svg)
 
